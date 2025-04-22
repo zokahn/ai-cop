@@ -42,7 +42,7 @@ After feedback we can settle on **“Community of Practitioners for AI (CoP‑AI
 ### 3.2 Kim – Senior ICT Advisor  
 - **Background:** ICT strategy and consulting, limited coding.  
 - **Goals:** High‑level AI strategy, quickstarts for Data Analytics, knowledge management; appreciates conceptual breakdowns followed by hands‑on how‑tos.  
-- **Role in CoP:** Early adopter; contributor of “AI Strategy” guides; potential chapter lead.
+- **Role in CoP:** Early adopter; contributor of “AI Strategy” guides; potential community manager.
 
 ### 3.3 Adrian – DevOps Engineer (Telco Platform Team)  
 - **Background:** OpenShift, ArgoCD, Ansible, Vault, Cisco ACI; national‑scale infra.  
